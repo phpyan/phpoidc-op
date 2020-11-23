@@ -1,6 +1,6 @@
 {
     "name": "phpyan/phpoidc-op",
-    "description": "phpoidc op server",
+    "description": "phpoidc op server\n 使用方法：<?php new Core();",
     "keywords": ["OIDC", "RELYING PARTY","OPENID PROVIDE", "OP","OPENID CONNECT", "OAUTH2.0"],
     "type": "library",
     "require": {
