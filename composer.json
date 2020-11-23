@@ -1,0 +1,19 @@
+{
+    "name": "phpyan/phpoidc-op",
+    "description": "phpoidc op server",
+    "keywords": ["OIDC", "RELYING PARTY","OPENID PROVIDE", "OP","OPENID CONNECT", "OAUTH2.0"],
+    "type": "library",
+    "require": {
+        "firebase/php-jwt": "5.2.0",
+        "php": ">=5.4.0"
+    },
+    "minimum-stability": "dev",
+    "homepage": "https://github.com/phpyan/phpoidc-op",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "phpyan",
+            "email": "22551371@qq.com"
+        }
+    ]
+}
