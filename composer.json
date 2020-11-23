@@ -9,6 +9,11 @@
     },
     "homepage": "https://github.com/phpyan/phpoidc-op",
     "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Phpoidc\\op\\": "src"
+        }
+    },
     "authors": [
         {
             "name": "phpyan",

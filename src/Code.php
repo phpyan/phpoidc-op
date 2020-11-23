@@ -1,7 +1,7 @@
 <?php
 
 
-namespace phpyan\phpoidc\op\token;
+namespace Phpoidc\op;
 
 
 class Code

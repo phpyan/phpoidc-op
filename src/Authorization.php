@@ -1,8 +1,6 @@
 <?php
 
-namespace phpyan\phpoidc\op\core;
-
-use phpyan\phpoidc\op\token\Code;
+namespace Phpoidc\op;
 
 class Authorization
 {

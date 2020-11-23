@@ -1,6 +1,6 @@
 <?php
 
-namespace phpoidc\op\user;
+namespace Phpoidc\op;
 
 class UserInfo
 {
